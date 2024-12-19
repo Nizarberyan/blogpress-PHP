@@ -14,6 +14,7 @@ $isLoggedIn = isset($_SESSION['user_id']);
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BlogPress - Your Modern Blogging Platform</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
     <script>
         tailwind.config = {
             theme: {
@@ -24,7 +25,21 @@ $isLoggedIn = isset($_SESSION['user_id']);
                     colors: {
                         'brand-blue': '#4285F4',
                         'brand-gray': '#5F6368'
-                    }
+                    },
+                    typography: {
+                        DEFAULT: {
+                            css: {
+                                maxWidth: 'none',
+                                color: '#333',
+                                a: {
+                                    color: '#4285F4',
+                                    '&:hover': {
+                                        color: '#1967D2',
+                                    },
+                                },
+                            },
+                        },
+                    },
                 }
             }
         }
@@ -79,12 +94,17 @@ $isLoggedIn = isset($_SESSION['user_id']);
                 include 'pages/dashboard.php';
                 break;
             case 'logout':
-
                 session_destroy();
                 header("Location: index.php");
                 exit();
             case 'create_article':
                 include 'pages/create_article.php';
+                break;
+            case 'edit_article':
+                include 'pages/edit_article.php';
+                break;
+            case 'article':
+                include 'pages/article.php';
                 break;
             default:
                 include 'pages/home.php';
@@ -100,3 +120,5 @@ $isLoggedIn = isset($_SESSION['user_id']);
 </body>
 
 </html>
+
+
