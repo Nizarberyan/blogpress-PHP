@@ -1,0 +1,276 @@
+Error [2] Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\blogpress-PHP\index.php:31)
+File: C:\xampp\htdocs\blogpress-PHP\pages\login.php, Line: 13
+Error [2] Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\blogpress-PHP\index.php:31)
+File: C:\xampp\htdocs\blogpress-PHP\pages\login.php, Line: 13
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\src\controllers/../models/Database.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\src\controllers\ArticleController.php, Line: 7
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\src\controllers/../models/Database.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\src\controllers\ArticleController.php, Line: 7
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\src\controllers/../models/Database.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\src\controllers\ArticleController.php, Line: 7
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\src\controllers/../models/Database.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\src\controllers\ArticleController.php, Line: 7
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\src\controllers/../models/Database.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\src\controllers\ArticleController.php, Line: 7
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\src\controllers/../models/Database.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\src\controllers\ArticleController.php, Line: 7
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\src\controllers/../models/Database.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\src\controllers\ArticleController.php, Line: 7
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\src\controllers/../models/Database.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\src\controllers\ArticleController.php, Line: 7
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\src\controllers/../models/Database.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\src\controllers\ArticleController.php, Line: 7
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\src\controllers/../models/Database.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\src\controllers\ArticleController.php, Line: 7
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\src\controllers/../models/Database.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\src\controllers\ArticleController.php, Line: 7
+Error [2] Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\blogpress-PHP\index.php:53)
+File: C:\xampp\htdocs\blogpress-PHP\pages\create_article.php, Line: 30
+Error [2] Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\blogpress-PHP\index.php:69)
+File: C:\xampp\htdocs\blogpress-PHP\pages\signup.php, Line: 22
+Error [2] Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\blogpress-PHP\index.php:69)
+File: C:\xampp\htdocs\blogpress-PHP\pages\signup.php, Line: 22
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\pages/../src/controllers/CommentController.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\pages\article.php, Line: 3
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\pages/../src/controllers/CommentController.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\pages\article.php, Line: 3
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\pages/../src/controllers/CommentController.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\pages\article.php, Line: 3
+Error [2] require_once(C:\xampp\htdocs\blogpress-PHP\src\controllers/../models/Comment.php): Failed to open stream: No such file or directory
+File: C:\xampp\htdocs\blogpress-PHP\src\controllers\CommentController.php, Line: 2
+Error [2] foreach() argument must be of type array|object, string given
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 94
+Error [2] foreach() argument must be of type array|object, null given
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 94
+Error [2] foreach() argument must be of type array|object, null given
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 94
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Trying to access array offset on value of type null
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [8192] htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated
+File: C:\xampp\htdocs\blogpress-PHP\pages\articles.php, Line: 96
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 31
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 69
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 31
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 69
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 31
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 69
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 31
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 69
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 31
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 69
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 31
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 69
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 31
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 69
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 31
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 69
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 31
+Error [2] Undefined array key "REQUEST_METHOD"
+File: C:\xampp\htdocs\blogpress-PHP\index.php, Line: 69
+Error [2] Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\blogpress-PHP\index.php:86)
+File: C:\xampp\htdocs\blogpress-PHP\pages\analytics.php, Line: 6

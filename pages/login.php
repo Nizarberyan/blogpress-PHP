@@ -31,17 +31,17 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         <div class="mb-4">
             <label for="username" class="block text-gray-700 text-sm font-bold mb-2">Username</label>
             <input type="text" name="username" required
-                class="shadow-soft appearance-none border rounded-full w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:border-brand-blue">
+                class="shadow-soft appearance-none border rounded-lg w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:border-brand-blue focus:ring-2 focus:ring-blue-100">
         </div>
 
         <div class="mb-6">
             <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
             <input type="password" name="password" required
-                class="shadow-soft appearance-none border rounded-full w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:border-brand-blue">
+                class="shadow-soft appearance-none border rounded-lg w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:border-brand-blue focus:ring-2 focus:ring-blue-100">
         </div>
 
         <div class="flex items-center justify-between">
-            <button type="submit" class="bg-brand-blue text-white px-4 py-2 rounded-full hover:bg-blue-600 transition">
+            <button type="submit" class="bg-brand-blue text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition">
                 Sign In
             </button>
             <a href="?page=signup" class="text-brand-blue hover:text-blue-800 transition">
